@@ -101,4 +101,7 @@ button:hover {
 	p {
 		text-align: center;
 	}
+	.top_left {
+		padding: 0 10px;
+	}
 }
